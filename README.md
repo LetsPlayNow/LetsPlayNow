@@ -1,7 +1,7 @@
 ### Hi there 👋
 Below are some of my favorite university projects,   
 which are interesting, but not representative of my current skills.   
-You might want to look at my resume instead: 📫
+You might want to look at my resume instead: [link](https://docs.google.com/document/d/1zKLo4B21suMvznjgA5xQhQ7hkyNv_TNcPDTwJVSn_oo/edit?usp=sharing)
 
 <!--
 **LetsPlayNow/LetsPlayNow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
